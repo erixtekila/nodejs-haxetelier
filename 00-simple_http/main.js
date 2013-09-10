@@ -1,5 +1,5 @@
 /**
- * Launch a simppel HTTP Server
+ * Launch a simple HTTP Server
  *
  * User: Eric Priou erixtekila
  * Date: 08/09/13
